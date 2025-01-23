@@ -1,0 +1,16 @@
+.signaturePad {
+  width: 100%;
+  height: 200px;
+  background-color: white;
+  touch-action: none;
+}
+  
+  .formContainer {
+    max-width: 4xl;
+    margin: 0 auto;
+    padding: 1.5rem;
+  }
+  
+  .inputGroup {
+    margin-bottom: 1rem;
+  }
